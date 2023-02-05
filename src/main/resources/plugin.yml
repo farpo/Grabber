@@ -1,0 +1,11 @@
+name: Grabber
+version: 1.0.0
+main: eu.ansquare.grabber.Grabber
+description: Mob grabber
+author: SasaElele
+website: https://papermc.io
+api-version: 1.19
+commands:
+  grabber:
+    description: Gives the grabber
+    usage: "Usage: /<command>"
